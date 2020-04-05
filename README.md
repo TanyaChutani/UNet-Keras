@@ -17,3 +17,7 @@ Dataset link - https://www.kaggle.com/c/data-science-bowl-2018/data
 You can download the pretrained weights from here 
 https://drive.google.com/open?id=10-A8XTgkr_xlDhsS1iclGCCjy_5Xs6xg
 
+1. <br />
+![](https://github.com/TanyaChutani/Unet/blob/master/unet 1.png)<br />
+2. <br />
+![](https://github.com/TanyaChutani/Unet/blob/master/unet 2.png)<br />
