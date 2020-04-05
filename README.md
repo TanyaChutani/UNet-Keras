@@ -18,6 +18,6 @@ You can download the pretrained weights from here  <br />
 https://drive.google.com/open?id=10-A8XTgkr_xlDhsS1iclGCCjy_5Xs6xg
 
 Input Image. <br />
-![](https://github.com/TanyaChutani/Unet/unet 1.png)<br />
+![](https://github.com/TanyaChutani/Unet/unet1.png)<br />
 Mask. <br />
-![](https://github.com/TanyaChutani/Unet/unet 2.png)<br />
+![](https://github.com/TanyaChutani/Unet/unet2.png)<br />
