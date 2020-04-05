@@ -3,8 +3,8 @@ Data-science-bowl-2018-Unet
 
 
 ## Data
-The original dataset is data science bowl 2k18 - dataset (automating nucleus detection), 
-and I've downloaded it, done the pre-processing and resizing all of the images to 128,128.
+The original dataset is data science bowl 2k18 - dataset (automating nucleus detection)  <br />
+and I've downloaded it, done the pre-processing and resizing all of the images to 128,128. <br />
 Dataset link - https://www.kaggle.com/c/data-science-bowl-2018/data
 
 ## Model
@@ -14,10 +14,10 @@ Dataset link - https://www.kaggle.com/c/data-science-bowl-2018/data
 - Metric for the training is basically just a mean IOU.
 
 ## Results
-You can download the pretrained weights from here 
+You can download the pretrained weights from here  <br />
 https://drive.google.com/open?id=10-A8XTgkr_xlDhsS1iclGCCjy_5Xs6xg
 
-1. <br />
-![](https://github.com/TanyaChutani/Unet/blob/master/unet 1.png)<br />
-2. <br />
-![](https://github.com/TanyaChutani/Unet/blob/master/unet 2.png)<br />
+Input Image. <br />
+![](https://github.com/TanyaChutani/Unet/unet 1.png)<br />
+Mask. <br />
+![](https://github.com/TanyaChutani/Unet/unet 2.png)<br />
