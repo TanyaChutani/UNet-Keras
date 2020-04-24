@@ -8,7 +8,7 @@ and I've downloaded it, done the pre-processing and resizing all of the images t
 Dataset link - [Dataset](https://www.kaggle.com/c/data-science-bowl-2018/data)
 
 ## Model
-![](https://raw.githubusercontent.com/TanyaChutani/Unet/master/u-net-architecture.png)<br />
+![](https://raw.githubusercontent.com/TanyaChutani/Unet/master/Architecture/u-net-architecture.png)<br />
 - Unet, deep neural network is implemented with Keras functional API.
 - Output from the network is a 128*128 which represents mask that should be learned.
 - The model was trained for 20 iterations with lr=0.001.
